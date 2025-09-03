@@ -3,6 +3,7 @@
 본 프로젝트에서 사용된 센서, 액추에이터, 모듈, 주변기기 목록입니다.  
 각 기능별 준비물, 전체 부품 목록, 핀맵 정보를 정리했습니다.  
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9bf87802-d761-45dd-b989-8e2d466defb0" />
 
 ---
 
@@ -101,5 +102,6 @@
 - [Wiring Diagram](./docs/wiring_diagram.png)  
 
 ---
+
 
 
