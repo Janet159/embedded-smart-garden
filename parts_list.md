@@ -21,42 +21,59 @@
 
 ## 전체 부품 목록
 
-- Arduino Mega 2560 (MCU 보드) ![arduino](<img width="477" height="248" alt="image" src="https://github.com/user-attachments/assets/f27a3dad-9a50-45ea-848d-8b2233cbfc40" />
-)  
-- LCD 16x2 ![lcd](<img width="214" height="215" alt="image" src="https://github.com/user-attachments/assets/bbdd244b-31e8-4fef-a9c7-ad1d42a50562" />
-)  
-- DHT11 온습도 센서 ![dht](<img width="214" height="214" alt="image" src="https://github.com/user-attachments/assets/0c5bc158-4ce0-4370-ab8c-885a2335de63" />
-)  
-- 조도 센서 (CDS) ![light](<img width="215" height="215" alt="image" src="https://github.com/user-attachments/assets/c11a7cb8-2f75-460c-b41b-a925487dd170" />
-)  
-- 토양 습도 센서 ![soil](<img width="214" height="214" alt="image" src="https://github.com/user-attachments/assets/c973c7f1-f48f-4b51-84ec-2acd44b89f62" />
-)  
-- 충격 센서 ![shock](<img width="215" height="214" alt="image" src="https://github.com/user-attachments/assets/9d7e940f-57ce-479d-8fcd-33de2f6ef44b" />
-)  
-- NeoPixel (Adafruit WS2812, 8개) ![neo](<img width="214" height="215" alt="image" src="https://github.com/user-attachments/assets/b7ea67de-342c-4f35-bbf5-67d4dc4d67c3" />
-)  
-- 모터 드라이버 ![motor](<img width="215" height="214" alt="image" src="https://github.com/user-attachments/assets/c9839bae-318f-4623-be60-1da76d4a4fea" />
-)  
-- 워터 펌프 + 실리콘 호스 ![pump](<img width="214" height="214" alt="image" src="https://github.com/user-attachments/assets/7c31bdae-8408-4c9f-b857-4a82268f41b6" /><img width="214" height="214" alt="image" src="https://github.com/user-attachments/assets/f686f9de-d3af-482a-b987-d6cca165d899" />
+- Arduino Mega 2560 (MCU 보드)<br>
+  <img src="https://github.com/user-attachments/assets/f27a3dad-9a50-45ea-848d-8b2233cbfc40" width="300" />
 
-)  
-- DC 모터 + 팬 ![fan](<img width="214" height="214" alt="image" src="https://github.com/user-attachments/assets/752d6fdc-3d1d-4731-a80f-f171a9e26427" /><img width="214" height="214" alt="image" src="https://github.com/user-attachments/assets/85b413fc-6aae-4376-8bcc-474950fce517" />
+- LCD 16x2<br>
+  <img src="https://github.com/user-attachments/assets/bbdd244b-31e8-4fef-a9c7-ad1d42a50562" width="220" />
 
-)  
-- 빨간 LED ![led](<img width="214" height="214" alt="image" src="https://github.com/user-attachments/assets/338710b3-2824-4d61-a3c9-b3257036e26a" />
-)  
-- 피에조 부저 ![buzzer](<img width="214" height="214" alt="image" src="https://github.com/user-attachments/assets/0a5d54c6-218d-4817-b6c9-ae4dc4765c7b" />
-)  
-- 텍트 스위치 (2개) ![switch](<img width="214" height="214" alt="image" src="https://github.com/user-attachments/assets/f9aaa611-a409-48ed-996e-afbf23aa389b" />
-)  
-- 가변 저항 ![vr](<img width="215" height="215" alt="image" src="https://github.com/user-attachments/assets/288696fc-dad4-4ef4-b2ac-626f7d709469" />
-)  
-- 점퍼 케이블 (M-M, M-F, F-F) ![jumper](<img width="214" height="214" alt="image" src="https://github.com/user-attachments/assets/5b564d67-0211-4307-b972-5f1ba07d4956" />
-)  
-- 브레드보드 ![breadboard](<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/170e9de2-37cb-4b16-8596-f7911e9f126d" />
-)  
-- 외부 전력 (건전지 팩 or 아답터) ![battery](<img width="214" height="214" alt="image" src="https://github.com/user-attachments/assets/1784638c-d77a-40d2-8cca-fe07206389cb" />
-)  
+- DHT11 온습도 센서<br>
+  <img src="https://github.com/user-attachments/assets/0c5bc158-4ce0-4370-ab8c-885a2335de63" width="220" />
+
+- 조도 센서 (CDS)<br>
+  <img src="https://github.com/user-attachments/assets/c11a7cb8-2f75-460c-b41b-a925487dd170" width="220" />
+
+- 토양 습도 센서<br>
+  <img src="https://github.com/user-attachments/assets/c973c7f1-f48f-4b51-84ec-2acd44b89f62" width="220" />
+
+- 충격 센서<br>
+  <img src="https://github.com/user-attachments/assets/9d7e940f-57ce-479d-8fcd-33de2f6ef44b" width="220" />
+
+- NeoPixel (Adafruit WS2812, 8개)<br>
+  <img src="https://github.com/user-attachments/assets/b7ea67de-342c-4f35-bbf5-67d4dc4d67c3" width="220" />
+
+- 모터 드라이버<br>
+  <img src="https://github.com/user-attachments/assets/c9839bae-318f-4623-be60-1da76d4a4fea" width="220" />
+
+- 워터 펌프 + 실리콘 호스<br>
+  <img src="https://github.com/user-attachments/assets/7c31bdae-8408-4c9f-b857-4a82268f41b6" width="220" />
+  <img src="https://github.com/user-attachments/assets/f686f9de-d3af-482a-b987-d6cca165d899" width="220" />
+
+- DC 모터 + 팬<br>
+  <img src="https://github.com/user-attachments/assets/752d6fdc-3d1d-4731-a80f-f171a9e26427" width="220" />
+  <img src="https://github.com/user-attachments/assets/85b413fc-6aae-4376-8bcc-474950fce517" width="220" />
+
+- 빨간 LED<br>
+  <img src="https://github.com/user-attachments/assets/338710b3-2824-4d61-a3c9-b3257036e26a" width="220" />
+
+- 피에조 부저<br>
+  <img src="https://github.com/user-attachments/assets/0a5d54c6-218d-4817-b6c9-ae4dc4765c7b" width="220" />
+
+- 텍트 스위치 (2개)<br>
+  <img src="https://github.com/user-attachments/assets/f9aaa611-a409-48ed-996e-afbf23aa389b" width="220" />
+
+- 가변 저항<br>
+  <img src="https://github.com/user-attachments/assets/288696fc-dad4-4ef4-b2ac-626f7d709469" width="220" />
+
+- 점퍼 케이블 (M-M, M-F, F-F)<br>
+  <img src="https://github.com/user-attachments/assets/5b564d67-0211-4307-b972-5f1ba07d4956" width="220" />
+
+- 브레드보드<br>
+  <img src="https://github.com/user-attachments/assets/170e9de2-37cb-4b16-8596-f7911e9f126d" width="300" />
+
+- 외부 전력 (건전지 팩 or 아답터)<br>
+  <img src="https://github.com/user-attachments/assets/1784638c-d77a-40d2-8cca-fe07206389cb" width="220" />
+
 
 ---
 
@@ -84,4 +101,5 @@
 - [Wiring Diagram](./docs/wiring_diagram.png)  
 
 ---
+
 
